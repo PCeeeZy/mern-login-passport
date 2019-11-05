@@ -1,0 +1,25 @@
+{
+  "name": "mern-login-passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCeeeZy/mern-login-passport.git"
+  },
+  "author": "Paul Cwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCeeeZy/mern-login-passport/issues"
+  },
+  "homepage": "https://github.com/PCeeeZy/mern-login-passport#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1"
+  }
+}
