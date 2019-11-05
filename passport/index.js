@@ -25,3 +25,5 @@ passport.deserializeUser((id, done) => {
 
 // use strategies
 passport.use(LocalStrategy);
+
+module.exports = passport;
